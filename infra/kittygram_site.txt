@@ -1,0 +1,5 @@
+IP: 51.250.101.47;
+name_taski: https://oyoyoyoyooyyosf.ddns.net/;
+name_kittygram: https://projectrorrororor.ddns.net/;
+login: vi0mio;
+password: vi0mio;
